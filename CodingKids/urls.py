@@ -22,3 +22,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('blog/', my_blog, name='blog'),
 ]
+
+
+
